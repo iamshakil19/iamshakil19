@@ -7,9 +7,9 @@ src="https://img.shields.io/github/followers/iamshakil19?logo=github&style=for-t
 
 - 🌍  I'm based in Dhaka, Bangladesh
 
-- 🔭 I’m currently working on [Payra](https://my-payra-9d36e.web.app/)
+- 🔭 I’m currently working on [Super Tech Furniture]([https://my-payra-9d36e.web.app/](https://supertechfurniture.com/))
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Advance Express.js**
 
 - 👯 I’m looking to collaborate on **Project**
 
