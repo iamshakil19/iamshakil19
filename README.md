@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/iamshakil19?logo=github&style=for-t
 
 - 📫 How to reach me **tmsakil19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q9AwLROf1rmsgpCi1V4xolFr6AqzdfEN/view?usp=sharing](https://drive.google.com/file/d/1vnm1CQj7Xa9MlwROPxKJZL9DrYExY6lt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vnm1CQj7Xa9MlwROPxKJZL9DrYExY6lt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
