@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TM Sakil</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshakil19&label=Profile%20views&color=0e75b6&style=flat" alt="iamshakil19" /> </p>
 <a href="https://www.github.com/iamshakil19" target="_blank" rel="noreferrer"><img
