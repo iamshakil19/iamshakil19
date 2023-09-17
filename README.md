@@ -7,15 +7,15 @@ src="https://img.shields.io/github/followers/iamshakil19?logo=github&style=for-t
 
 - 🌍  I'm based in Dhaka, Bangladesh
 
-- 🔭 I’m currently working on [Super Tech Furniture]([https://my-payra-9d36e.web.app/](https://supertechfurniture.com/))
+- 🔭 I’m currently working on [Super Tech Furniture](https://super-tech.vercel.app/)
 
-- 🌱 I’m currently learning **Advance Express.js**
+- 🌱 I’m currently learning **Advance Full Stack**
 
 - 👯 I’m looking to collaborate on **Project**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shakil-sooty.vercel.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **tmsakil19@gmail.com**
 
