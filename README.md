@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/iamshakil19?logo=github&style=for-t
 
 - 🔭 I’m currently working on [Super Tech Furniture](https://super-tech.vercel.app/)
 
-- 🌱 I’m currently learning **Advance Full Stack**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Project**
 
