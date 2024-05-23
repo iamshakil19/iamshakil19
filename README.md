@@ -29,10 +29,10 @@ src="https://img.shields.io/github/followers/iamshakil19?logo=github&style=for-t
 
 <h3 align="left">My GitHub Stats</h3>
 <p align="center">
-<a href="https://github.com/hafiz-sakib/github-readme-stats"><img alt="hafiz-sakib's Github Stats" src="https://readme-stats.clckblog.space/api?username=iamshakil19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/iamshakil19/github-readme-stats"><img alt="iamshakil19's Github Stats" src="https://readme-stats.clckblog.space/api?username=iamshakil19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/iamshakil19/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshakil19&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/iamshakil19?logo=github&style=for-t
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamshakil19&theme=github_dark&utcOffset=8"/>
 </p>
-<a href="https://github.com/hafiz-sakib/github-readme-stats"><img alt="sakil's Top Languages" src="https://readme-stats.clckblog.space/api/top-langs/?username=iamshakil19&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/iamshakil19/github-readme-stats"><img alt="sakil's Top Languages" src="https://readme-stats.clckblog.space/api/top-langs/?username=iamshakil19&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <div align="center" >
 
